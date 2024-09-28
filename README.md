@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 
 i'm gonna use get pull
+i'm not gonna be the one who get hurt.
